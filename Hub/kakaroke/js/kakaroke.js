@@ -58,14 +58,25 @@ async function loadWord() {
     const res = await fetch("../kakaroke/json/mot.json");
     const data = await res.json();
     console.log(data)
-    let word = "Mot introuvable";
+    let entry = null;
 
     if (mode === "simple") {
-        word = data.simple[Math.floor(Math.random() * data.simple.length)];
+        entry = data.simple[Math.floor(Math.random() * data.simple.length)];
     } else if (mode === "categorie") {
-        word = data.categorie[Math.floor(Math.random() * data.categorie.length)];
+        entry = data.categorie[Math.floor(Math.random() * data.categorie.length)];
     } else if (mode === "expert") {
-        word = data.expert[Math.floor(Math.random() * data.expert.length)];
+        entry = data.expert[Math.floor(Math.random() * data.expert.length)];
+    }
+
+    let word = "Mot introuvable";
+
+    if (entry) {
+        word = `${entry.fr} / ${entry.en}`;
+
+        // Pour le mode expert, on affiche aussi le mot bonus s'il existe
+        if (mode === "expert" && entry.bonus) {
+            word += ` (${entry.bonus})`;
+        }
     }
 
     document.getElementById("word-display").textContent = word;
