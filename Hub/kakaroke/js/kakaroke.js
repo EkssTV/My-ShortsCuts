@@ -16,6 +16,9 @@ document.querySelectorAll(".mode-btn").forEach(btn => {
 // --- Génération des champs de noms d'équipe ---
 document.getElementById("team-count").addEventListener("input", () => {
     const count = parseInt(document.getElementById("team-count").value);
+    if(count > 10){
+        return
+    }
     const container = document.getElementById("team-names");
     container.innerHTML = "";
 
@@ -52,7 +55,7 @@ function startRound() {
 
 // --- Charger un mot selon le mode ---
 async function loadWord() {
-    const res = await fetch("./json/mot.json");
+    const res = await fetch("../kakaroke/json/mot.json");
     const data = await res.json();
 
     let word = "Mot introuvable";
