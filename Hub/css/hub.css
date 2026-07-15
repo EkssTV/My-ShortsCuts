@@ -1,42 +1,94 @@
+/* --- Style général du hub --- */
+
 body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #121212;
-            color: #fff;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+    font-family: "Sansation", sans-serif;
+    background-color: rgb(39, 39, 39);
+    margin: 0;
+    padding: 0;
+    color: white;
+}
 
-        .container {
-            text-align: center;
-        }
+/* --- Header du hub --- */
 
-        h1 {
-            margin-bottom: 30px;
-        }
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(56, 56, 56);
+    padding: 15px;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 15px 18px rgb(31, 31, 31);
+}
 
-        .buttons {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            align-items: center;
-        }
+/* GIF cliquable dans le header */
+#gifheader {
+    height: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-self: start;
+    transition: transform 0.2s ease;
+}
 
-        button {
-            padding: 12px 30px;
-            font-size: 18px;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            background: #ff9800;
-            color: #121212;
-            transition: transform 0.1s ease, background 0.2s ease;
-            min-width: 220px;
-        }
+#gifheader:hover {
+    transform: scale(1.05);
+}
 
-        button:hover {
-            background: #ffa726;
-            transform: scale(1.03);
-        }
+/* Lien "Hub" au centre */
+#home {
+    align-self: center;
+    font-size: 3em;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(219, 219, 219);
+}
+
+#home:hover {
+    color: gray;
+}
+
+#home:active {
+    color: rgb(76, 60, 117);
+}
+
+/* --- Conteneur central --- */
+
+#hub-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 60px;
+}
+
+/* --- Titre du hub --- */
+
+#hub-title {
+    font-size: 2.5em;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+/* --- Boutons du hub --- */
+
+.hub-btn {
+    padding: 15px 40px;
+    font-size: 1.4em;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(219, 219, 219);
+    color: rgb(39, 39, 39);
+    cursor: pointer;
+    width: 60%;
+    max-width: 350px;
+    margin-bottom: 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.hub-btn:hover {
+    background-color: rgb(180, 180, 180);
+    transform: scale(1.05);
+}
+
+.hub-btn:active {
+    transform: scale(0.97);
+    background-color: rgb(150, 150, 150);
+}
