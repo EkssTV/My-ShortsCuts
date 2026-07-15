@@ -13,6 +13,17 @@ document.querySelectorAll(".mode-btn").forEach(btn => {
     });
 });
 
+// --- Règles du jeu ---
+document.getElementById("show-rules-btn").addEventListener("click", () => {
+    document.getElementById("mode-selection").classList.add("hidden");
+    document.getElementById("rules").classList.remove("hidden");
+});
+
+document.getElementById("back-from-rules-btn").addEventListener("click", () => {
+    document.getElementById("rules").classList.add("hidden");
+    document.getElementById("mode-selection").classList.remove("hidden");
+});
+
 // --- Génération des champs de noms d'équipe ---
 document.getElementById("team-count").addEventListener("input", () => {
     const count = parseInt(document.getElementById("team-count").value);
@@ -165,9 +176,34 @@ function checkWin() {
     const winner = teams.find(t => t.score >= pointsToWin);
 
     if (winner) {
-        alert(`Victoire de ${winner.name} !`);
-        // Ici tu pourras faire un classement final
+        clearInterval(timer);
+        showEndGame(winner);
     } else {
         startRound();
     }
 }
+
+// --- Écran de fin de partie ---
+function showEndGame(winner) {
+    document.getElementById("game-area").classList.add("hidden");
+    document.getElementById("end-game").classList.remove("hidden");
+
+    document.getElementById("winner-announce").textContent = `🏆 Victoire de ${winner.name} !`;
+
+    const sorted = [...teams].sort((a, b) => b.score - a.score);
+    const container = document.getElementById("final-scoreboard");
+
+    container.innerHTML = sorted
+        .map((team, index) => `
+            <div class="score-item final-score-item ${index === 0 ? "first-place" : ""}">
+                <span class="score-name">${index + 1}. ${team.name}</span>
+                <span class="score-value">${team.score}</span>
+            </div>
+        `)
+        .join("");
+}
+
+// --- Rejouer ---
+document.getElementById("restart-btn").addEventListener("click", () => {
+    location.reload();
+});

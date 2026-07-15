@@ -22,6 +22,22 @@
         <button class="mode-btn" data-mode="simple">Kakaroké Simple Edition</button>
         <button class="mode-btn" data-mode="categorie">Kakaroké Catégorie Edition</button>
         <button class="mode-btn" data-mode="expert">Kakaroké Expert Edition</button>
+
+        <button id="show-rules-btn" class="secondary-btn">📖 Voir les règles</button>
+    </section>
+
+    <!-- Règles du jeu -->
+    <section id="rules" class="hidden">
+        <h2>Règles du jeu</h2>
+
+        <h3>Mode Simple</h3>
+        <ul class="rules-list">
+            <li><span class="point-badge">1 pt</span> Avoir chanté la phrase où se trouve le mot</li>
+            <li><span class="point-badge">2 pts</span> Avoir chanté la phrase et celle d'à côté <strong>OU</strong> avoir chanté la phrase et donné le titre de la musique</li>
+            <li><span class="point-badge">3 pts</span> Avoir chanté la phrase et celle d'à côté <strong>ET</strong> avoir donné le titre de la musique <strong>ET</strong> l'artiste</li>
+        </ul>
+
+        <button id="back-from-rules-btn">Retour</button>
     </section>
 
     <!-- Paramètres de la partie -->
@@ -65,6 +81,12 @@
 
             <button id="validate-score">Valider</button>
         </div>
+    </section>
+    <!-- Fin de partie -->
+    <section id="end-game" class="hidden">
+        <h2 id="winner-announce"></h2>
+        <div id="final-scoreboard"></div>
+        <button id="restart-btn">Rejouer</button>
     </section>
 
 </main>

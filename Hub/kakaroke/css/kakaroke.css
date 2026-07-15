@@ -296,6 +296,97 @@ select:focus {
     flex: 1 1 auto;
 }
 
+/* ---------- Écran de fin de partie ---------- */
+#end-game {
+    text-align: center;
+}
+
+#winner-announce {
+    font-size: 1.7em;
+    margin-bottom: 20px;
+    color: var(--gold);
+    text-shadow: 0 0 18px rgba(255, 209, 102, 0.35);
+}
+
+#final-scoreboard {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 24px;
+}
+
+.final-score-item {
+    justify-content: space-between;
+    border-radius: 12px;
+    padding: 12px 18px;
+}
+
+.final-score-item.first-place {
+    background: var(--gradient);
+    border-color: transparent;
+}
+
+.final-score-item.first-place .score-name,
+.final-score-item.first-place .score-value {
+    color: white;
+}
+
+#restart-btn {
+    background: linear-gradient(135deg, var(--gold), #ff8a3c);
+    color: #1b1200;
+}
+
+/* ---------- Bouton secondaire (discret) ---------- */
+.secondary-btn {
+    display: block;
+    width: 100%;
+    background: transparent;
+    border: 1px solid var(--card-border);
+    color: var(--text-dim);
+    box-shadow: none;
+    margin-top: 18px;
+}
+
+.secondary-btn:hover {
+    border-color: var(--pink);
+    color: var(--text);
+    background: transparent;
+    box-shadow: none;
+}
+
+/* ---------- Section règles ---------- */
+.rules-list {
+    list-style: none;
+    padding: 0;
+    margin: 16px 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.rules-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: #14131a;
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    line-height: 1.5;
+}
+
+.point-badge {
+    flex: 0 0 auto;
+    font-family: "Fredoka", sans-serif;
+    font-weight: 600;
+    font-size: 0.85em;
+    background: var(--gradient);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 999px;
+    white-space: nowrap;
+}
+
 /* ---------- Utilitaires ---------- */
 .hidden {
     display: none;
