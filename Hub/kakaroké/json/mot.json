@@ -1,0 +1,2205 @@
+{
+    "simple": [
+        {
+            "fr": "Amour",
+            "en": "Love"
+        },
+        {
+            "fr": "Nuit",
+            "en": "Night"
+        },
+        {
+            "fr": "Jour",
+            "en": "Day"
+        },
+        {
+            "fr": "Ciel",
+            "en": "Sky"
+        },
+        {
+            "fr": "Soleil",
+            "en": "Sun"
+        },
+        {
+            "fr": "Lune",
+            "en": "Moon"
+        },
+        {
+            "fr": "Étoile",
+            "en": "Star"
+        },
+        {
+            "fr": "Pluie",
+            "en": "Rain"
+        },
+        {
+            "fr": "Vent",
+            "en": "Wind"
+        },
+        {
+            "fr": "Feu",
+            "en": "Fire"
+        },
+        {
+            "fr": "Eau",
+            "en": "Water"
+        },
+        {
+            "fr": "Mer",
+            "en": "Sea"
+        },
+        {
+            "fr": "Rivière",
+            "en": "River"
+        },
+        {
+            "fr": "Terre",
+            "en": "Earth"
+        },
+        {
+            "fr": "Monde",
+            "en": "World"
+        },
+        {
+            "fr": "Vie",
+            "en": "Life"
+        },
+        {
+            "fr": "Mort",
+            "en": "Death"
+        },
+        {
+            "fr": "Temps",
+            "en": "Time"
+        },
+        {
+            "fr": "Heure",
+            "en": "Hour"
+        },
+        {
+            "fr": "Cœur",
+            "en": "Heart"
+        },
+        {
+            "fr": "Corps",
+            "en": "Body"
+        },
+        {
+            "fr": "Main",
+            "en": "Hand"
+        },
+        {
+            "fr": "Pied",
+            "en": "Foot"
+        },
+        {
+            "fr": "Yeux",
+            "en": "Eyes"
+        },
+        {
+            "fr": "Regard",
+            "en": "Look/Glance"
+        },
+        {
+            "fr": "Bouche",
+            "en": "Mouth"
+        },
+        {
+            "fr": "Sourire",
+            "en": "Smile"
+        },
+        {
+            "fr": "Larme",
+            "en": "Tear"
+        },
+        {
+            "fr": "Voix",
+            "en": "Voice"
+        },
+        {
+            "fr": "Chanson",
+            "en": "Song"
+        },
+        {
+            "fr": "Musique",
+            "en": "Music"
+        },
+        {
+            "fr": "Danse",
+            "en": "Dance"
+        },
+        {
+            "fr": "Rêve",
+            "en": "Dream"
+        },
+        {
+            "fr": "Route",
+            "en": "Road"
+        },
+        {
+            "fr": "Chemin",
+            "en": "Path"
+        },
+        {
+            "fr": "Rue",
+            "en": "Street"
+        },
+        {
+            "fr": "Ville",
+            "en": "City"
+        },
+        {
+            "fr": "Maison",
+            "en": "House"
+        },
+        {
+            "fr": "Chambre",
+            "en": "Room"
+        },
+        {
+            "fr": "Lit",
+            "en": "Bed"
+        },
+        {
+            "fr": "Porte",
+            "en": "Door"
+        },
+        {
+            "fr": "Fenêtre",
+            "en": "Window"
+        },
+        {
+            "fr": "Ami",
+            "en": "Friend"
+        },
+        {
+            "fr": "Mère",
+            "en": "Mother"
+        },
+        {
+            "fr": "Père",
+            "en": "Father"
+        },
+        {
+            "fr": "Enfant",
+            "en": "Child"
+        },
+        {
+            "fr": "Bébé",
+            "en": "Baby"
+        },
+        {
+            "fr": "Homme",
+            "en": "Man"
+        },
+        {
+            "fr": "Femme",
+            "en": "Woman"
+        },
+        {
+            "fr": "Garçon",
+            "en": "Boy"
+        },
+        {
+            "fr": "Fille",
+            "en": "Girl"
+        },
+        {
+            "fr": "Roi",
+            "en": "King"
+        },
+        {
+            "fr": "Reine",
+            "en": "Queen"
+        },
+        {
+            "fr": "Ange",
+            "en": "Angel"
+        },
+        {
+            "fr": "Diable",
+            "en": "Devil"
+        },
+        {
+            "fr": "Dieu",
+            "en": "God"
+        },
+        {
+            "fr": "Lumière",
+            "en": "Light"
+        },
+        {
+            "fr": "Ombre",
+            "en": "Shadow"
+        },
+        {
+            "fr": "Rire",
+            "en": "Laughter"
+        },
+        {
+            "fr": "Peur",
+            "en": "Fear"
+        },
+        {
+            "fr": "Guerre",
+            "en": "War"
+        },
+        {
+            "fr": "Paix",
+            "en": "Peace"
+        },
+        {
+            "fr": "Liberté",
+            "en": "Freedom"
+        },
+        {
+            "fr": "Pays",
+            "en": "Country"
+        },
+        {
+            "fr": "Voyage",
+            "en": "Journey"
+        },
+        {
+            "fr": "Train",
+            "en": "Train"
+        },
+        {
+            "fr": "Avion",
+            "en": "Airplane"
+        },
+        {
+            "fr": "Voiture",
+            "en": "Car"
+        },
+        {
+            "fr": "Bateau",
+            "en": "Boat"
+        },
+        {
+            "fr": "Lettre",
+            "en": "Letter"
+        },
+        {
+            "fr": "Mot",
+            "en": "Word"
+        },
+        {
+            "fr": "Histoire",
+            "en": "Story"
+        },
+        {
+            "fr": "Livre",
+            "en": "Book"
+        },
+        {
+            "fr": "Photo",
+            "en": "Photo"
+        },
+        {
+            "fr": "Miroir",
+            "en": "Mirror"
+        },
+        {
+            "fr": "Bague",
+            "en": "Ring"
+        },
+        {
+            "fr": "Fleur",
+            "en": "Flower"
+        },
+        {
+            "fr": "Rose",
+            "en": "Rose"
+        },
+        {
+            "fr": "Arbre",
+            "en": "Tree"
+        },
+        {
+            "fr": "Forêt",
+            "en": "Forest"
+        },
+        {
+            "fr": "Oiseau",
+            "en": "Bird"
+        },
+        {
+            "fr": "Papillon",
+            "en": "Butterfly"
+        },
+        {
+            "fr": "Chat",
+            "en": "Cat"
+        },
+        {
+            "fr": "Chien",
+            "en": "Dog"
+        },
+        {
+            "fr": "Loup",
+            "en": "Wolf"
+        },
+        {
+            "fr": "Cheval",
+            "en": "Horse"
+        },
+        {
+            "fr": "Lion",
+            "en": "Lion"
+        },
+        {
+            "fr": "Poisson",
+            "en": "Fish"
+        },
+        {
+            "fr": "Or",
+            "en": "Gold"
+        },
+        {
+            "fr": "Argent",
+            "en": "Silver"
+        },
+        {
+            "fr": "Diamant",
+            "en": "Diamond"
+        },
+        {
+            "fr": "Pierre",
+            "en": "Stone"
+        },
+        {
+            "fr": "Sable",
+            "en": "Sand"
+        },
+        {
+            "fr": "Désert",
+            "en": "Desert"
+        },
+        {
+            "fr": "Montagne",
+            "en": "Mountain"
+        },
+        {
+            "fr": "Nuage",
+            "en": "Cloud"
+        },
+        {
+            "fr": "Espace",
+            "en": "Space"
+        },
+        {
+            "fr": "Matin",
+            "en": "Morning"
+        },
+        {
+            "fr": "Soir",
+            "en": "Evening"
+        },
+        {
+            "fr": "Minuit",
+            "en": "Midnight"
+        },
+        {
+            "fr": "Hiver",
+            "en": "Winter"
+        },
+        {
+            "fr": "Été",
+            "en": "Summer"
+        },
+        {
+            "fr": "Printemps",
+            "en": "Spring"
+        },
+        {
+            "fr": "Automne",
+            "en": "Autumn"
+        },
+        {
+            "fr": "Fête",
+            "en": "Party"
+        },
+        {
+            "fr": "Vin",
+            "en": "Wine"
+        },
+        {
+            "fr": "Café",
+            "en": "Coffee"
+        },
+        {
+            "fr": "Pain",
+            "en": "Bread"
+        },
+        {
+            "fr": "Sel",
+            "en": "Salt"
+        },
+        {
+            "fr": "Sucre",
+            "en": "Sugar"
+        },
+        {
+            "fr": "Verre",
+            "en": "Glass"
+        },
+        {
+            "fr": "Table",
+            "en": "Table"
+        },
+        {
+            "fr": "Chaise",
+            "en": "Chair"
+        },
+        {
+            "fr": "Habit",
+            "en": "Clothes"
+        },
+        {
+            "fr": "Chapeau",
+            "en": "Hat"
+        },
+        {
+            "fr": "Chaussure",
+            "en": "Shoe"
+        },
+        {
+            "fr": "Manteau",
+            "en": "Coat"
+        },
+        {
+            "fr": "Robe",
+            "en": "Dress"
+        },
+        {
+            "fr": "Secret",
+            "en": "Secret"
+        },
+        {
+            "fr": "Vérité",
+            "en": "Truth"
+        },
+        {
+            "fr": "Mensonge",
+            "en": "Lie"
+        },
+        {
+            "fr": "Pardon",
+            "en": "Forgiveness"
+        },
+        {
+            "fr": "Adieu",
+            "en": "Goodbye"
+        },
+        {
+            "fr": "Souvenir",
+            "en": "Memory"
+        },
+        {
+            "fr": "Avenir",
+            "en": "Future"
+        },
+        {
+            "fr": "Passé",
+            "en": "Past"
+        },
+        {
+            "fr": "Présent",
+            "en": "Present"
+        },
+        {
+            "fr": "Chance",
+            "en": "Luck"
+        },
+        {
+            "fr": "Destin",
+            "en": "Destiny"
+        },
+        {
+            "fr": "Bonheur",
+            "en": "Happiness"
+        },
+        {
+            "fr": "Malheur",
+            "en": "Misfortune"
+        },
+        {
+            "fr": "Tristesse",
+            "en": "Sadness"
+        },
+        {
+            "fr": "Colère",
+            "en": "Anger"
+        },
+        {
+            "fr": "Jalousie",
+            "en": "Jealousy"
+        },
+        {
+            "fr": "Raison",
+            "en": "Reason"
+        },
+        {
+            "fr": "Folie",
+            "en": "Madness"
+        },
+        {
+            "fr": "Esprit",
+            "en": "Mind"
+        },
+        {
+            "fr": "Âme",
+            "en": "Soul"
+        },
+        {
+            "fr": "Parfum",
+            "en": "Perfume"
+        },
+        {
+            "fr": "Baiser",
+            "en": "Kiss"
+        },
+        {
+            "fr": "Caresse",
+            "en": "Caress"
+        },
+        {
+            "fr": "Douleur",
+            "en": "Pain"
+        },
+        {
+            "fr": "Sang",
+            "en": "Blood"
+        },
+        {
+            "fr": "Blessure",
+            "en": "Wound"
+        },
+        {
+            "fr": "Prison",
+            "en": "Prison"
+        },
+        {
+            "fr": "Chaîne",
+            "en": "Chain"
+        },
+        {
+            "fr": "Arme",
+            "en": "Weapon"
+        },
+        {
+            "fr": "Fusil",
+            "en": "Gun"
+        },
+        {
+            "fr": "Goutte",
+            "en": "Drop"
+        },
+        {
+            "fr": "Vague",
+            "en": "Wave"
+        },
+        {
+            "fr": "Tempête",
+            "en": "Storm"
+        },
+        {
+            "fr": "Éclair",
+            "en": "Lightning"
+        },
+        {
+            "fr": "Bruit",
+            "en": "Noise"
+        },
+        {
+            "fr": "Silence",
+            "en": "Silence"
+        },
+        {
+            "fr": "Cri",
+            "en": "Scream"
+        },
+        {
+            "fr": "Chaleur",
+            "en": "Heat"
+        },
+        {
+            "fr": "Froid",
+            "en": "Cold"
+        },
+        {
+            "fr": "Glace",
+            "en": "Ice"
+        },
+        {
+            "fr": "Neige",
+            "en": "Snow"
+        },
+        {
+            "fr": "Cendres",
+            "en": "Ashes"
+        },
+        {
+            "fr": "Poussière",
+            "en": "Dust"
+        },
+        {
+            "fr": "Boue",
+            "en": "Mud"
+        },
+        {
+            "fr": "Coin",
+            "en": "Corner"
+        },
+        {
+            "fr": "Place",
+            "en": "Square"
+        },
+        {
+            "fr": "Pont",
+            "en": "Bridge"
+        },
+        {
+            "fr": "Mur",
+            "en": "Wall"
+        },
+        {
+            "fr": "Toit",
+            "en": "Roof"
+        },
+        {
+            "fr": "Jardin",
+            "en": "Garden"
+        },
+        {
+            "fr": "Plage",
+            "en": "Beach"
+        },
+        {
+            "fr": "Île",
+            "en": "Island"
+        },
+        {
+            "fr": "Horizon",
+            "en": "Horizon"
+        },
+        {
+            "fr": "Clé",
+            "en": "Key"
+        },
+        {
+            "fr": "Horloge",
+            "en": "Clock"
+        },
+        {
+            "fr": "Drapeau",
+            "en": "Flag"
+        },
+        {
+            "fr": "Soldat",
+            "en": "Soldat"
+        },
+        {
+            "fr": "Peuple",
+            "en": "People"
+        },
+        {
+            "fr": "Foule",
+            "en": "Crowd"
+        },
+        {
+            "fr": "Aimer",
+            "en": "To love"
+        },
+        {
+            "fr": "Haïr",
+            "en": "To hate"
+        },
+        {
+            "fr": "Chanter",
+            "en": "To sing"
+        },
+        {
+            "fr": "Danser",
+            "en": "To dance"
+        },
+        {
+            "fr": "Jouer",
+            "en": "To play"
+        },
+        {
+            "fr": "Parler",
+            "en": "To speak"
+        },
+        {
+            "fr": "Dire",
+            "en": "To say"
+        },
+        {
+            "fr": "Écouter",
+            "en": "To listen"
+        },
+        {
+            "fr": "Entendre",
+            "en": "To hear"
+        },
+        {
+            "fr": "Voir",
+            "en": "To see"
+        },
+        {
+            "fr": "Regarder",
+            "en": "To look"
+        },
+        {
+            "fr": "Chercher",
+            "en": "To look for"
+        },
+        {
+            "fr": "Trouver",
+            "en": "To find"
+        },
+        {
+            "fr": "Perdre",
+            "en": "To lose"
+        },
+        {
+            "fr": "Gagner",
+            "en": "To win"
+        },
+        {
+            "fr": "Partir",
+            "en": "To leave"
+        },
+        {
+            "fr": "Venir",
+            "en": "To come"
+        },
+        {
+            "fr": "Aller",
+            "en": "To go"
+        },
+        {
+            "fr": "Rester",
+            "en": "To stay"
+        },
+        {
+            "fr": "Revenir",
+            "en": "To return"
+        },
+        {
+            "fr": "Attendre",
+            "en": "To wait"
+        },
+        {
+            "fr": "Courir",
+            "en": "To run"
+        },
+        {
+            "fr": "Marcher",
+            "en": "To walk"
+        },
+        {
+            "fr": "Voler",
+            "en": "To fly/steal"
+        },
+        {
+            "fr": "Tomber",
+            "en": "To fall"
+        },
+        {
+            "fr": "Pleurer",
+            "en": "To cry"
+        },
+        {
+            "fr": "Crier",
+            "en": "To shout"
+        },
+        {
+            "fr": "Chuchoter",
+            "en": "To whisper"
+        },
+        {
+            "fr": "Penser",
+            "en": "To think"
+        },
+        {
+            "fr": "Croire",
+            "en": "To believe"
+        },
+        {
+            "fr": "Savoir",
+            "en": "To know"
+        },
+        {
+            "fr": "Comprendre",
+            "en": "To understand"
+        },
+        {
+            "fr": "Oublier",
+            "en": "To forget"
+        },
+        {
+            "fr": "Rappeler",
+            "en": "To remind/recall"
+        },
+        {
+            "fr": "Vivre",
+            "en": "To live"
+        },
+        {
+            "fr": "Mourir",
+            "en": "To die"
+        },
+        {
+            "fr": "Naître",
+            "en": "To be born"
+        },
+        {
+            "fr": "Grandir",
+            "en": "To grow"
+        },
+        {
+            "fr": "Dormir",
+            "en": "To sleep"
+        },
+        {
+            "fr": "Rêver",
+            "en": "To dream"
+        },
+        {
+            "fr": "Se réveiller",
+            "en": "To wake up"
+        },
+        {
+            "fr": "Boire",
+            "en": "To drink"
+        },
+        {
+            "fr": "Manger",
+            "en": "To eat"
+        },
+        {
+            "fr": "Prendre",
+            "en": "To take"
+        },
+        {
+            "fr": "Donner",
+            "en": "To give"
+        },
+        {
+            "fr": "Offrir",
+            "en": "To offer"
+        },
+        {
+            "fr": "Recevoir",
+            "en": "To receive"
+        },
+        {
+            "fr": "Tenir",
+            "en": "To hold"
+        },
+        {
+            "fr": "Lâcher",
+            "en": "To let go"
+        },
+        {
+            "fr": "Ouvrir",
+            "en": "To open"
+        },
+        {
+            "fr": "Fermer",
+            "en": "To close"
+        },
+        {
+            "fr": "Brûler",
+            "en": "To burn"
+        },
+        {
+            "fr": "Allumer",
+            "en": "To light"
+        },
+        {
+            "fr": "Éteindre",
+            "en": "To turn off"
+        },
+        {
+            "fr": "Casser",
+            "en": "To break"
+        },
+        {
+            "fr": "Réparer",
+            "en": "To fix"
+        },
+        {
+            "fr": "Changer",
+            "en": "To change"
+        },
+        {
+            "fr": "Suivre",
+            "en": "To follow"
+        },
+        {
+            "fr": "Guider",
+            "en": "To guide"
+        },
+        {
+            "fr": "Cacher",
+            "en": "To hide"
+        },
+        {
+            "fr": "Montrer",
+            "en": "To show"
+        },
+        {
+            "fr": "Briller",
+            "en": "To shine"
+        },
+        {
+            "fr": "Sauter",
+            "en": "To jump"
+        },
+        {
+            "fr": "Plonger",
+            "en": "To dive"
+        },
+        {
+            "fr": "Nager",
+            "en": "To swim"
+        },
+        {
+            "fr": "Disparaître",
+            "en": "To disappear"
+        },
+        {
+            "fr": "Apparaître",
+            "en": "To appear"
+        },
+        {
+            "fr": "Toucher",
+            "en": "To touch"
+        },
+        {
+            "fr": "Sentir",
+            "en": "To feel/smell"
+        },
+        {
+            "fr": "Goûter",
+            "en": "To taste"
+        },
+        {
+            "fr": "Embrasser",
+            "en": "To kiss/embrace"
+        },
+        {
+            "fr": "Quitter",
+            "en": "To leave"
+        },
+        {
+            "fr": "Rejoindre",
+            "en": "To join"
+        },
+        {
+            "fr": "Écrire",
+            "en": "To write"
+        },
+        {
+            "fr": "Lire",
+            "en": "To read"
+        },
+        {
+            "fr": "Apprendre",
+            "en": "To learn"
+        },
+        {
+            "fr": "Enseigner",
+            "en": "To teach"
+        },
+        {
+            "fr": "Demander",
+            "en": "To ask"
+        },
+        {
+            "fr": "Répondre",
+            "en": "To answer"
+        },
+        {
+            "fr": "Promettre",
+            "en": "To promise"
+        },
+        {
+            "fr": "Jurer",
+            "en": "To swear"
+        },
+        {
+            "fr": "Mentir",
+            "en": "To lie"
+        },
+        {
+            "fr": "Pardonner",
+            "en": "To forgive"
+        },
+        {
+            "fr": "Prier",
+            "en": "To pray"
+        },
+        {
+            "fr": "Bénir",
+            "en": "To bless"
+        },
+        {
+            "fr": "Maudire",
+            "en": "To curse"
+        },
+        {
+            "fr": "Sauver",
+            "en": "To save"
+        },
+        {
+            "fr": "Tuer",
+            "en": "To kill"
+        },
+        {
+            "fr": "Frapper",
+            "en": "To hit"
+        },
+        {
+            "fr": "Battre",
+            "en": "To beat"
+        },
+        {
+            "fr": "Lutter",
+            "en": "To struggle/fight"
+        },
+        {
+            "fr": "Échouer",
+            "en": "To fail"
+        },
+        {
+            "fr": "Bâtir",
+            "en": "To build"
+        },
+        {
+            "fr": "Détruire",
+            "en": "To destroy"
+        },
+        {
+            "fr": "Acheter",
+            "en": "To buy"
+        },
+        {
+            "fr": "Vendre",
+            "en": "To sell"
+        },
+        {
+            "fr": "Payer",
+            "en": "To pay"
+        },
+        {
+            "fr": "Travailler",
+            "en": "To work"
+        },
+        {
+            "fr": "Voyager",
+            "en": "To travel"
+        },
+        {
+            "fr": "Chasser",
+            "en": "To hunt"
+        },
+        {
+            "fr": "Pêcher",
+            "en": "To fish"
+        },
+        {
+            "fr": "Coudre",
+            "en": "To sew"
+        },
+        {
+            "fr": "Peindre",
+            "en": "To paint"
+        },
+        {
+            "fr": "Dessiner",
+            "en": "To draw"
+        },
+        {
+            "fr": "Créer",
+            "en": "To create"
+        },
+        {
+            "fr": "Inventer",
+            "en": "To invent"
+        },
+        {
+            "fr": "Découvrir",
+            "en": "To discover"
+        },
+        {
+            "fr": "Partager",
+            "en": "To share"
+        },
+        {
+            "fr": "Habiter",
+            "en": "To live/dwell"
+        },
+        {
+            "fr": "Ranger",
+            "en": "To tidy up"
+        },
+        {
+            "fr": "Laver",
+            "en": "To wash"
+        },
+        {
+            "fr": "Nettoyer",
+            "en": "To clean"
+        },
+        {
+            "fr": "Plier",
+            "en": "To fold"
+        },
+        {
+            "fr": "Tirer",
+            "en": "To pull"
+        },
+        {
+            "fr": "Pousser",
+            "en": "To push"
+        },
+        {
+            "fr": "Porter",
+            "en": "To wear/carry"
+        },
+        {
+            "fr": "Amener",
+            "en": "To bring"
+        },
+        {
+            "fr": "Emporter",
+            "en": "To take away"
+        },
+        {
+            "fr": "Poser",
+            "en": "To put down"
+        },
+        {
+            "fr": "Lever",
+            "en": "To raise"
+        },
+        {
+            "fr": "Baisser",
+            "en": "To lower"
+        },
+        {
+            "fr": "Tourner",
+            "en": "To turn"
+        },
+        {
+            "fr": "Avancer",
+            "en": "To advance"
+        },
+        {
+            "fr": "Reculer",
+            "en": "To back up"
+        },
+        {
+            "fr": "Arrêter",
+            "en": "To stop"
+        },
+        {
+            "fr": "Continuer",
+            "en": "To continue"
+        },
+        {
+            "fr": "Commencer",
+            "en": "To start"
+        },
+        {
+            "fr": "Finir",
+            "en": "To finish"
+        },
+        {
+            "fr": "Terminer",
+            "en": "To end"
+        },
+        {
+            "fr": "Durer",
+            "en": "To last"
+        },
+        {
+            "fr": "Passer",
+            "en": "To pass"
+        },
+        {
+            "fr": "Traverser",
+            "en": "To cross"
+        },
+        {
+            "fr": "Monter",
+            "en": "To go up"
+        },
+        {
+            "fr": "Descendre",
+            "en": "To go down"
+        },
+        {
+            "fr": "Geler",
+            "en": "To freeze"
+        },
+        {
+            "fr": "Fondre",
+            "en": "To melt"
+        },
+        {
+            "fr": "Couler",
+            "en": "To flow/sink"
+        },
+        {
+            "fr": "Flotter",
+            "en": "To float"
+        },
+        {
+            "fr": "Siffler",
+            "en": "To whistle"
+        },
+        {
+            "fr": "Sonner",
+            "en": "To ring"
+        },
+        {
+            "fr": "Hurler",
+            "en": "To howl/scream"
+        },
+        {
+            "fr": "Gémir",
+            "en": "To groan"
+        },
+        {
+            "fr": "Trembler",
+            "en": "To tremble"
+        },
+        {
+            "fr": "Frissonner",
+            "en": "To shiver"
+        },
+        {
+            "fr": "Transpirer",
+            "en": "To sweat"
+        },
+        {
+            "fr": "Saigner",
+            "en": "To bleed"
+        },
+        {
+            "fr": "Guérir",
+            "en": "To heal"
+        },
+        {
+            "fr": "Souffrir",
+            "en": "To suffer"
+        },
+        {
+            "fr": "S'enfuir",
+            "en": "To flee"
+        },
+        {
+            "fr": "S'échapper",
+            "en": "To escape"
+        },
+        {
+            "fr": "Défendre",
+            "en": "To defend"
+        },
+        {
+            "fr": "Attaquer",
+            "en": "To attack"
+        },
+        {
+            "fr": "Protéger",
+            "en": "To protect"
+        },
+        {
+            "fr": "Soutenir",
+            "en": "To support"
+        },
+        {
+            "fr": "Aider",
+            "en": "To help"
+        },
+        {
+            "fr": "Servir",
+            "en": "To serve"
+        },
+        {
+            "fr": "Inviter",
+            "en": "To invite"
+        },
+        {
+            "fr": "Beau",
+            "en": "Beautiful"
+        },
+        {
+            "fr": "Joli",
+            "en": "Pretty"
+        },
+        {
+            "fr": "Laid",
+            "en": "Ugly"
+        },
+        {
+            "fr": "Grand",
+            "en": "Big/Tall"
+        },
+        {
+            "fr": "Petit",
+            "en": "Small"
+        },
+        {
+            "fr": "Gros",
+            "en": "Fat"
+        },
+        {
+            "fr": "Mince",
+            "en": "Thin"
+        },
+        {
+            "fr": "Haut",
+            "en": "High"
+        },
+        {
+            "fr": "Bas",
+            "en": "Low"
+        },
+        {
+            "fr": "Long",
+            "en": "Long"
+        },
+        {
+            "fr": "Court",
+            "en": "Short"
+        },
+        {
+            "fr": "Large",
+            "en": "Wide"
+        },
+        {
+            "fr": "Étroit",
+            "en": "Narrow"
+        },
+        {
+            "fr": "Jeune",
+            "en": "Young"
+        },
+        {
+            "fr": "Vieux",
+            "en": "Old"
+        },
+        {
+            "fr": "Nouveau",
+            "en": "New"
+        },
+        {
+            "fr": "Ancien",
+            "en": "Ancient"
+        },
+        {
+            "fr": "Bon",
+            "en": "Good"
+        },
+        {
+            "fr": "Mauvais",
+            "en": "Bad"
+        },
+        {
+            "fr": "Meilleur",
+            "en": "Better"
+        },
+        {
+            "fr": "Vrai",
+            "en": "True"
+        },
+        {
+            "fr": "Faux",
+            "en": "False"
+        },
+        {
+            "fr": "Heureux",
+            "en": "Happy"
+        },
+        {
+            "fr": "Triste",
+            "en": "Sad"
+        },
+        {
+            "fr": "Gai",
+            "en": "Cheerful"
+        },
+        {
+            "fr": "Joyeux",
+            "en": "Joyful"
+        },
+        {
+            "fr": "Fatigué",
+            "en": "Tired"
+        },
+        {
+            "fr": "En forme",
+            "en": "In shape"
+        },
+        {
+            "fr": "Fort",
+            "en": "Strong"
+        },
+        {
+            "fr": "Faible",
+            "en": "Weak"
+        },
+        {
+            "fr": "Doux",
+            "en": "Sweet/Soft"
+        },
+        {
+            "fr": "Dur",
+            "en": "Hard"
+        },
+        {
+            "fr": "Tendre",
+            "en": "Tender"
+        },
+        {
+            "fr": "Cruel",
+            "en": "Cruel"
+        },
+        {
+            "fr": "Gentil",
+            "en": "Kind"
+        },
+        {
+            "fr": "Méchant",
+            "en": "Mean"
+        },
+        {
+            "fr": "Sage",
+            "en": "Wise"
+        },
+        {
+            "fr": "Fou",
+            "en": "Crazy"
+        },
+        {
+            "fr": "Intelligent",
+            "en": "Smart"
+        },
+        {
+            "fr": "Bête",
+            "en": "Stupid"
+        },
+        {
+            "fr": "Fier",
+            "en": "Proud"
+        },
+        {
+            "fr": "Humble",
+            "en": "Humble"
+        },
+        {
+            "fr": "Riche",
+            "en": "Rich"
+        },
+        {
+            "fr": "Pauvre",
+            "en": "Poor"
+        },
+        {
+            "fr": "Chaud",
+            "en": "Hot"
+        },
+        {
+            "fr": "Tiède",
+            "en": "Lukewarm"
+        },
+        {
+            "fr": "Sec",
+            "en": "Dry"
+        },
+        {
+            "fr": "Mouillé",
+            "en": "Wet"
+        },
+        {
+            "fr": "Propre",
+            "en": "Clean"
+        },
+        {
+            "fr": "Sale",
+            "en": "Dirty"
+        },
+        {
+            "fr": "Clair",
+            "en": "Clear"
+        },
+        {
+            "fr": "Sombre",
+            "en": "Dark"
+        },
+        {
+            "fr": "Noir",
+            "en": "Black"
+        },
+        {
+            "fr": "Blanc",
+            "en": "White"
+        },
+        {
+            "fr": "Rouge",
+            "en": "Red"
+        },
+        {
+            "fr": "Bleu",
+            "en": "Blue"
+        },
+        {
+            "fr": "Vert",
+            "en": "Green"
+        },
+        {
+            "fr": "Jaune",
+            "en": "Yellow"
+        },
+        {
+            "fr": "Gris",
+            "en": "Grey"
+        },
+        {
+            "fr": "Léger",
+            "en": "Light"
+        },
+        {
+            "fr": "Lourd",
+            "en": "Heavy"
+        },
+        {
+            "fr": "Rapide",
+            "en": "Fast"
+        },
+        {
+            "fr": "Lent",
+            "en": "Slow"
+        },
+        {
+            "fr": "Calme",
+            "en": "Calm"
+        },
+        {
+            "fr": "Agité",
+            "en": "Agitated"
+        },
+        {
+            "fr": "Tranquille",
+            "en": "Quiet"
+        },
+        {
+            "fr": "Bruyant",
+            "en": "Noisy"
+        },
+        {
+            "fr": "Facile",
+            "en": "Easy"
+        },
+        {
+            "fr": "Difficile",
+            "en": "Difficult"
+        },
+        {
+            "fr": "Cher",
+            "en": "Expensive"
+        },
+        {
+            "fr": "Gratuit",
+            "en": "Free"
+        },
+        {
+            "fr": "Plein",
+            "en": "Full"
+        },
+        {
+            "fr": "Vide",
+            "en": "Empty"
+        },
+        {
+            "fr": "Seul",
+            "en": "Alone"
+        },
+        {
+            "fr": "Ensemble",
+            "en": "Together"
+        },
+        {
+            "fr": "Libre",
+            "en": "Free"
+        },
+        {
+            "fr": "Prisonnier",
+            "en": "Prisoner"
+        },
+        {
+            "fr": "Sourd",
+            "en": "Deaf"
+        },
+        {
+            "fr": "Aveugle",
+            "en": "Blind"
+        },
+        {
+            "fr": "Muet",
+            "en": "Mute"
+        },
+        {
+            "fr": "Vivant",
+            "en": "Alive"
+        },
+        {
+            "fr": "Perdu",
+            "en": "Lost"
+        },
+        {
+            "fr": "Trouvé",
+            "en": "Found"
+        },
+        {
+            "fr": "Étrange",
+            "en": "Strange"
+        },
+        {
+            "fr": "Bizarre",
+            "en": "Weird"
+        },
+        {
+            "fr": "Normal",
+            "en": "Normal"
+        },
+        {
+            "fr": "Public",
+            "en": "Public"
+        },
+        {
+            "fr": "Lointain",
+            "en": "Distant"
+        },
+        {
+            "fr": "Proche",
+            "en": "Near"
+        },
+        {
+            "fr": "Profond",
+            "en": "Deep"
+        },
+        {
+            "fr": "Épais",
+            "en": "Thick"
+        },
+        {
+            "fr": "Fin",
+            "en": "Fine/Thin"
+        },
+        {
+            "fr": "Droit",
+            "en": "Straight/Right"
+        },
+        {
+            "fr": "Gauche",
+            "en": "Left"
+        },
+        {
+            "fr": "Rond",
+            "en": "Round"
+        },
+        {
+            "fr": "Carré",
+            "en": "Square"
+        },
+        {
+            "fr": "Unique",
+            "en": "Unique"
+        },
+        {
+            "fr": "Paradis",
+            "en": "Paradise"
+        },
+        {
+            "fr": "Enfer",
+            "en": "Hell"
+        },
+        {
+            "fr": "Guitare",
+            "en": "Guitar"
+        },
+        {
+            "fr": "Piano",
+            "en": "Piano"
+        },
+        {
+            "fr": "Radio",
+            "en": "Radio"
+        },
+        {
+            "fr": "Danseur",
+            "en": "Dancer"
+        },
+        {
+            "fr": "Émotion",
+            "en": "Emotion"
+        },
+        {
+            "fr": "Passion",
+            "en": "Passion"
+        },
+        {
+            "fr": "Frisson",
+            "en": "Thrill"
+        },
+        {
+            "fr": "Sensation",
+            "en": "Sensation"
+        },
+        {
+            "fr": "Illusion",
+            "en": "Illusion"
+        },
+        {
+            "fr": "Rêverie",
+            "en": "Revery"
+        },
+        {
+            "fr": "Destinée",
+            "en": "Destiny"
+        },
+        {
+            "fr": "Voyageur",
+            "en": "Traveler"
+        },
+        {
+            "fr": "Étranger",
+            "en": "Stranger"
+        },
+        {
+            "fr": "Inconnu",
+            "en": "Unknown"
+        },
+        {
+            "fr": "Visage",
+            "en": "Face"
+        },
+        {
+            "fr": "Cheveux",
+            "en": "Hair"
+        },
+        {
+            "fr": "Peau",
+            "en": "Skin"
+        },
+        {
+            "fr": "Étreinte",
+            "en": "Embrace"
+        },
+        {
+            "fr": "Souffle",
+            "en": "Breath"
+        },
+        {
+            "fr": "Murmure",
+            "en": "Whisper"
+        },
+        {
+            "fr": "Chant",
+            "en": "Song/Chant"
+        },
+        {
+            "fr": "Refrain",
+            "en": "Chorus"
+        },
+        {
+            "fr": "Mélodie",
+            "en": "Melody"
+        },
+        {
+            "fr": "Rythme",
+            "en": "Rhythm"
+        },
+        {
+            "fr": "Note",
+            "en": "Note"
+        },
+        {
+            "fr": "Accord",
+            "en": "Chord"
+        },
+        {
+            "fr": "Symphonie",
+            "en": "Symphony"
+        },
+        {
+            "fr": "Opéra",
+            "en": "Opera"
+        },
+        {
+            "fr": "Rock",
+            "en": "Rock"
+        },
+        {
+            "fr": "Pop",
+            "en": "Pop"
+        },
+        {
+            "fr": "Jazz",
+            "en": "Jazz"
+        },
+        {
+            "fr": "Blues",
+            "en": "Blues"
+        },
+        {
+            "fr": "Rime",
+            "en": "Rhyme"
+        },
+        {
+            "fr": "Poème",
+            "en": "Poem"
+        },
+        {
+            "fr": "Poète",
+            "en": "Poet"
+        },
+        {
+            "fr": "Écrivain",
+            "en": "Writer"
+        },
+        {
+            "fr": "Artiste",
+            "en": "Artist"
+        },
+        {
+            "fr": "Peintre",
+            "en": "Painter"
+        },
+        {
+            "fr": "Acteur",
+            "en": "Actor"
+        },
+        {
+            "fr": "Scène",
+            "en": "Stage"
+        },
+        {
+            "fr": "Applaudissements",
+            "en": "Applause"
+        },
+        {
+            "fr": "Succès",
+            "en": "Success"
+        },
+        {
+            "fr": "Gloire",
+            "en": "Glory"
+        },
+        {
+            "fr": "Fortune",
+            "en": "Fortune"
+        },
+        {
+            "fr": "Misère",
+            "en": "Misery"
+        },
+        {
+            "fr": "Hasard",
+            "en": "Chance/Coincidence"
+        },
+        {
+            "fr": "Risque",
+            "en": "Risk"
+        },
+        {
+            "fr": "Danger",
+            "en": "Danger"
+        },
+        {
+            "fr": "Sécurité",
+            "en": "Safety"
+        },
+        {
+            "fr": "Refuge",
+            "en": "Refuge"
+        },
+        {
+            "fr": "Abri",
+            "en": "Shelter"
+        },
+        {
+            "fr": "Foyer",
+            "en": "Home"
+        },
+        {
+            "fr": "Famille",
+            "en": "Family"
+        },
+        {
+            "fr": "Enfance",
+            "en": "Childhood"
+        },
+        {
+            "fr": "Jeunesse",
+            "en": "Youth"
+        },
+        {
+            "fr": "Vieillesse",
+            "en": "Old age"
+        },
+        {
+            "fr": "Génération",
+            "en": "Generation"
+        },
+        {
+            "fr": "Époque",
+            "en": "Era"
+        },
+        {
+            "fr": "Saison",
+            "en": "Season"
+        },
+        {
+            "fr": "Année",
+            "en": "Year"
+        },
+        {
+            "fr": "Mois",
+            "en": "Month"
+        },
+        {
+            "fr": "Semaine",
+            "en": "Week"
+        },
+        {
+            "fr": "Minute",
+            "en": "Minute"
+        },
+        {
+            "fr": "Seconde",
+            "en": "Second"
+        },
+        {
+            "fr": "Instant",
+            "en": "Moment"
+        },
+        {
+            "fr": "Moment",
+            "en": "Moment"
+        },
+        {
+            "fr": "Éternité",
+            "en": "Eternity"
+        }
+    ],
+    "categorie": [
+        {
+            "fr": "Animaux",
+            "en": "Animals"
+        },
+        {
+            "fr": "Sport",
+            "en": "Sports"
+        },
+        {
+            "fr": "Nourriture",
+            "en": "Food"
+        },
+        {
+            "fr": "Transports",
+            "en": "Transport"
+        },
+        {
+            "fr": "Vêtements",
+            "en": "Clothes"
+        },
+        {
+            "fr": "Métiers",
+            "en": "Jobs"
+        },
+        {
+            "fr": "Couleurs",
+            "en": "Colors"
+        },
+        {
+            "fr": "Corps humain",
+            "en": "Human body"
+        },
+        {
+            "fr": "Famille",
+            "en": "Family"
+        },
+        {
+            "fr": "Maison",
+            "en": "House"
+        },
+        {
+            "fr": "Nature",
+            "en": "Nature"
+        },
+        {
+            "fr": "Pays",
+            "en": "Countries"
+        },
+        {
+            "fr": "Ville",
+            "en": "City"
+        },
+        {
+            "fr": "Météo",
+            "en": "Weather"
+        },
+        {
+            "fr": "Émotions",
+            "en": "Emotions"
+        },
+        {
+            "fr": "Musique",
+            "en": "Music"
+        },
+        {
+            "fr": "Cinéma",
+            "en": "Cinema"
+        },
+        {
+            "fr": "Sciences",
+            "en": "Science"
+        },
+        {
+            "fr": "Technologie",
+            "en": "Technology"
+        },
+        {
+            "fr": "École",
+            "en": "School"
+        },
+        {
+            "fr": "Fruits",
+            "en": "Fruits"
+        },
+        {
+            "fr": "Légumes",
+            "en": "Vegetables"
+        },
+        {
+            "fr": "Outils",
+            "en": "Tools"
+        },
+        {
+            "fr": "Loisirs",
+            "en": "Hobbies"
+        },
+        {
+            "fr": "Voyage",
+            "en": "Travel"
+        },
+        {
+            "fr": "Histoire",
+            "en": "History"
+        },
+        {
+            "fr": "Géographie",
+            "en": "Geography"
+        },
+        {
+            "fr": "Espace",
+            "en": "Space"
+        },
+        {
+            "fr": "Art",
+            "en": "Art"
+        },
+        {
+            "fr": "Meubles",
+            "en": "Furniture"
+        },
+        {
+            "fr": "Sentiments",
+            "en": "Feelings"
+        },
+        {
+            "fr": "Formes",
+            "en": "Shapes"
+        },
+        {
+            "fr": "Chiffres",
+            "en": "Numbers"
+        },
+        {
+            "fr": "Temps",
+            "en": "Time"
+        },
+        {
+            "fr": "Fêtes",
+            "en": "Holidays"
+        },
+        {
+            "fr": "Matériaux",
+            "en": "Materials"
+        },
+        {
+            "fr": "Océan",
+            "en": "Ocean"
+        },
+        {
+            "fr": "Plantes",
+            "en": "Plants"
+        },
+        {
+            "fr": "Cuisine",
+            "en": "Cooking"
+        },
+        {
+            "fr": "Jeux",
+            "en": "Games"
+        },
+        {
+            "fr": "Jardinage",
+            "en": "Gardening"
+        },
+        {
+            "fr": "Littérature",
+            "en": "Literature"
+        },
+        {
+            "fr": "Bâtiments",
+            "en": "Buildings"
+        }
+    ],
+    "expert": [
+        {
+            "fr": "Chante comme un robot",
+            "en": "Sing like a robot",
+            "bonus": "Mot bonus : Laser"
+        },
+        {
+            "fr": "Chante en chuchotant",
+            "en": "Whisper singing",
+            "bonus": "Mot bonus : Secret"
+        },
+        {
+            "fr": "Chante en mode opéra",
+            "en": "Opera style",
+            "bonus": "Mot bonus : Diva"
+        },
+        {
+            "fr": "Imite un présentateur météo en panique",
+            "en": "Imitate a panicking weather presenter",
+            "bonus": "Mot bonus : Tempête"
+        },
+        {
+            "fr": "Parle uniquement en rimes",
+            "en": "Speak only in rhymes",
+            "bonus": "Mot bonus : Poète"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kakaroké</title>
+    <link rel="stylesheet" href="css/kakaroke.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Kakaroké</h1>
+</header>
+
+<main>
+
+    <!-- Choix du mode -->
+    <section id="mode-selection">
+        <h2>Choisis ton mode</h2>
+
+        <button class="mode-btn" data-mode="simple">Kakaroké Simple Edition</button>
+        <button class="mode-btn" data-mode="categorie">Kakaroké Catégorie Edition</button>
+        <button class="mode-btn" data-mode="expert">Kakaroké Expert Edition</button>
+    </section>
+
+    <!-- Paramètres de la partie -->
+    <section id="game-settings" class="hidden">
+        <h2>Paramètres de la partie</h2>
+
+        <label>Nombre d'équipes :</label>
+        <input type="number" id="team-count" min="1" max="10">
+
+        <div id="team-names"></div>
+
+        <label>Temps de réponse (secondes) :</label>
+        <input type="number" id="timer-duration" min="5" max="120">
+
+        <label>Points à atteindre :</label>
+        <input type="number" id="points-to-win" min="1" max="100">
+
+        <button id="start-game">Lancer la partie</button>
+    </section>
+
+    <!-- Zone de jeu -->
+    <section id="game-area" class="hidden">
+        <h2 id="word-display">Mot ici</h2>
+
+        <button id="hit-btn">HIT</button>
+
+        <div id="timer-display">00</div>
+
+        <div id="score-selection" class="hidden">
+            <h3>Qui a marqué ?</h3>
+            <div id="team-score-buttons"></div>
+
+            <label>Points :</label>
+            <select id="points-given">
+                <option value="1">1 point</option>
+                <option value="2">2 points</option>
+                <option value="3">3 points</option>
+            </select>
+
+            <button id="validate-score">Valider</button>
+        </div>
+    </section>
+
+</main>
+
+<script src="js/kakaroke.js"></script>
+</body>
+</html>
