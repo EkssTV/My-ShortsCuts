@@ -51,6 +51,22 @@ document.getElementById("start-game").addEventListener("click", () => {
 function startRound() {
     loadWord();
     startTimer();
+    renderScoreboard();
+}
+
+// --- Afficher le score en direct ---
+function renderScoreboard() {
+    const container = document.getElementById("scoreboard");
+    if (!container) return;
+
+    container.innerHTML = teams
+        .map(team => `
+            <div class="score-item">
+                <span class="score-name">${team.name}</span>
+                <span class="score-value">${team.score}</span>
+            </div>
+        `)
+        .join("");
 }
 
 // --- Charger un mot selon le mode ---
@@ -132,6 +148,7 @@ document.getElementById("validate-score").addEventListener("click", () => {
 
     document.getElementById("score-selection").classList.add("hidden");
 
+    renderScoreboard();
     checkWin();
 });
 

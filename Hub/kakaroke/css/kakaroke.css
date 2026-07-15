@@ -232,6 +232,39 @@ select:focus {
     margin-top: 10px;
 }
 
+/* ---------- Tableau des scores en direct ---------- */
+#scoreboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 22px;
+}
+
+.score-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #14131a;
+    border: 1px solid var(--card-border);
+    border-radius: 999px;
+    padding: 8px 16px;
+}
+
+.score-name {
+    font-size: 0.9em;
+    color: var(--text-dim);
+}
+
+.score-value {
+    font-family: "Fredoka", sans-serif;
+    font-weight: 600;
+    font-size: 1.1em;
+    color: var(--gold);
+    min-width: 1.2em;
+    text-align: center;
+}
+
 /* ---------- Zone de jeu ---------- */
 #word-display {
     font-family: "Fredoka", sans-serif;
