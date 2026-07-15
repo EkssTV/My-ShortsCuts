@@ -57,7 +57,7 @@ function startRound() {
 async function loadWord() {
     const res = await fetch("../kakaroke/json/mot.json");
     const data = await res.json();
-
+    console.log(data)
     let word = "Mot introuvable";
 
     if (mode === "simple") {
