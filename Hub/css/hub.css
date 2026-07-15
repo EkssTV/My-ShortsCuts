@@ -1,5 +1,4 @@
-/* --- Style général du hub --- */
-
+/* --- Style général --- */
 body {
     font-family: "Sansation", sans-serif;
     background-color: rgb(39, 39, 39);
@@ -8,8 +7,7 @@ body {
     color: white;
 }
 
-/* --- Header du hub --- */
-
+/* --- Header --- */
 header {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -19,7 +17,7 @@ header {
     box-shadow: 0 15px 18px rgb(31, 31, 31);
 }
 
-/* GIF cliquable dans le header */
+/* GIF cliquable */
 #gifheader {
     height: 100px;
     border-radius: 5px;
@@ -32,7 +30,7 @@ header {
     transform: scale(1.05);
 }
 
-/* Lien "Hub" au centre */
+/* Lien Hub */
 #home {
     align-self: center;
     font-size: 3em;
@@ -49,37 +47,44 @@ header {
     color: rgb(76, 60, 117);
 }
 
-/* --- Conteneur central --- */
-
+/* --- Conteneur principal du hub --- */
 #hub-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    margin-top: 40px;
+}
+
+/* --- Section contenant les boutons --- */
+#hub-section {
+    background-color: rgb(56, 56, 56);
+    padding: 25px;
+    border-radius: 15px;
+    width: 60%;
+    box-shadow: 0 10px 15px rgb(31, 31, 31);
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    padding-top: 60px;
 }
 
-/* --- Titre du hub --- */
-
+/* --- Titre --- */
 #hub-title {
-    font-size: 2.5em;
-    margin-bottom: 40px;
+    font-size: 2.2em;
+    margin-bottom: 25px;
     text-align: center;
 }
 
 /* --- Boutons du hub --- */
-
 .hub-btn {
-    padding: 15px 40px;
-    font-size: 1.4em;
-    border: none;
-    border-radius: 10px;
     background-color: rgb(219, 219, 219);
     color: rgb(39, 39, 39);
+    border: none;
+    border-radius: 10px;
+    padding: 15px 40px;
+    font-size: 1.3em;
     cursor: pointer;
-    width: 60%;
-    max-width: 350px;
-    margin-bottom: 20px;
+    width: 80%;
+    margin: 10px 0;
     transition: all 0.2s ease-in-out;
 }
 
@@ -89,6 +94,6 @@ header {
 }
 
 .hub-btn:active {
-    transform: scale(0.97);
     background-color: rgb(150, 150, 150);
+    transform: scale(0.97);
 }
